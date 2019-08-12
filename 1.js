@@ -1,3 +1,3 @@
 function f1 () {
-    alert("A");
+    alert("Barev");
 }
